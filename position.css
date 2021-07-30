@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+}
+body h1 {
+	font-size: 2.4em;
+}
+body h1 span {
+	color: rgb(227, 131, 16)
+}
+.position-parent {
+	margin: 0 auto;
+	margin-top: 100px;
+	width: 600px;
+}	
+
+.position-parent div {
+	margin: 0 auto;
+	width: fit-content;
+	margin-bottom: 20px;
+}
+
+
+/*background: #182612;*/
